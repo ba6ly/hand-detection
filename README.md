@@ -1,1 +1,2 @@
-# hand-detection
+# hand-detection  
+>a open cv project 
